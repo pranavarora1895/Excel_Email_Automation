@@ -1,4 +1,4 @@
-# Excel_Email_Automation [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+# Excel_Email_Automation [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)  <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 **Getting the excel file through GUI, then searching for the specific keyword and mailing to the respective email address. Automated by python.**
 
