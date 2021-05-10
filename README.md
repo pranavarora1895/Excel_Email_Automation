@@ -12,7 +12,7 @@ Installing Dependencies:
 **Example:** ```pip install -r c://Users/Downloads/Excel_Email_Automation/requirements.txt```
 ---
 
-> ### Important Steps to Setup Email Automation
+> ### Important Steps to Setup Email Automation:
 <br>
 * Goto [Google Less Secure Apps](myaccount.google.com/lesssecureapps) and toggle the Less Secure Apps to allow python to send the emails for you.
 * Setup your email address and password as your environment variables to maintain your privacy.
